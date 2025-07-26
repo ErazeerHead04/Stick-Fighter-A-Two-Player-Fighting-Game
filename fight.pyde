@@ -376,9 +376,4 @@ def draw():
         fill(0,0,255)
         text("Player2", RESOLUTION_X - 90,18)
     
-#Collision using cicles fix jumping and other controls 
-#fix the button controls so that only one at a time function
-#add jumping sound
-#directions of actions
-# number of games played
-#
+
